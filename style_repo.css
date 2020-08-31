@@ -43,7 +43,6 @@
      float: right;
      }
      .subcontents-1, .subcontents-2, .subcontents-3{
-     background-color: pink;
      height: 200px;
      width: 210px;
      border: 0px;
@@ -51,12 +50,13 @@
      padding: 0px;
      display: inline-block;
      float:right; 
+     background-color: white;
 }
      #advertisement{
      height: 120px;
      width: 660px;
-     background-color: purple;
      margin: 250px 20px;
      display: block;
+     background-color: white;
 
 }
